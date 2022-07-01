@@ -1,6 +1,6 @@
 # DMM WEBCAMPコンテンツ【応用課題 Bookers2】
 
-DMM WEBCAMPの学習コンテンツ"アプリケーションを完成させよう2"の応用課題編です。
+DMM WEBCAMPの学習コンテンツ応用課題編です。
 
 ## サイト詳細
 
